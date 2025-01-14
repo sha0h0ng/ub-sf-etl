@@ -74,7 +74,7 @@ Replace the placeholder values with your actual credentials and configuration.
 Run the script using:
 
 ```bash
-python populate_excel_with_sftp.py
+python script.py
 ```
 
 ## Script Actions
